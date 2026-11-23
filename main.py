@@ -1,3 +1,9 @@
+"""Write one office joke to /output/entry.txt.
+
+The joke: a manager calls the office a family, an employee takes
+it literally and asks for an allowance, and the company answers
+with a performance improvement plan. One line, 107 characters.
+"""
 import os
 
 TEXT = (
